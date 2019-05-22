@@ -1,110 +1,110 @@
 <annotation>
-	<folder>images</folder>
-	<filename>7.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\7.jpg</path>
+	<folder>imageAI_demo</folder>
+	<filename>gettyimages-108006231-612x612.jpg</filename>
+	<path>C:/Users/alec.sekelsky/Desktop/Image_detect/imageAI_demo/gettyimages-108006231-612x612.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
+		<width>612</width>
+		<height>588</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>aircraft</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>174</xmin>
-			<ymin>48</ymin>
-			<xmax>300</xmax>
-			<ymax>218</ymax>
+			<xmin>496</xmin>
+			<ymin>152</ymin>
+			<xmax>510</xmax>
+			<ymax>164</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>aircraft</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>452</xmin>
-			<ymin>299</ymin>
-			<xmax>618</xmax>
-			<ymax>453</ymax>
+			<xmin>427</xmin>
+			<ymin>183</ymin>
+			<xmax>439</xmax>
+			<ymax>194</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>aircraft</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>56</xmin>
-			<ymin>373</ymin>
-			<xmax>210</xmax>
-			<ymax>476</ymax>
+			<xmin>384</xmin>
+			<ymin>262</ymin>
+			<xmax>397</xmax>
+			<ymax>276</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>aircraft</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>18</xmin>
-			<ymin>20</ymin>
-			<xmax>159</xmax>
-			<ymax>154</ymax>
+			<xmin>386</xmin>
+			<ymin>288</ymin>
+			<xmax>394</xmax>
+			<ymax>296</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>aircraft</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>494</xmin>
-			<ymin>236</ymin>
-			<xmax>689</xmax>
-			<ymax>364</ymax>
+			<xmin>398</xmin>
+			<ymin>279</ymin>
+			<xmax>411</xmax>
+			<ymax>293</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>aircraft</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>99</xmin>
-			<ymin>257</ymin>
-			<xmax>231</xmax>
-			<ymax>340</ymax>
+			<xmin>508</xmin>
+			<ymin>273</ymin>
+			<xmax>524</xmax>
+			<ymax>288</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>aircraft</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>208</xmin>
-			<ymin>261</ymin>
-			<xmax>281</xmax>
-			<ymax>325</ymax>
+			<xmin>541</xmin>
+			<ymin>268</ymin>
+			<xmax>555</xmax>
+			<ymax>285</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>aircraft</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>158</xmin>
-			<ymin>325</ymin>
-			<xmax>245</xmax>
-			<ymax>404</ymax>
+			<xmin>470</xmin>
+			<ymin>280</ymin>
+			<xmax>484</xmax>
+			<ymax>293</ymax>
 		</bndbox>
 	</object>
 </annotation>
