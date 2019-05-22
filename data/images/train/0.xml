@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>21.jpg</filename>
-	<path>C:/Users/alec.sekelsky/Desktop/Image_detect/imageAI_demo/train/21.jpg</path>
+	<filename>0.jpg</filename>
+	<path>C:/Users/alec.sekelsky/Desktop/Image_detect/target_detection/data/images/train/0.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,158 +12,158 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>w</name>
+		<name>aircraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>254</ymin>
+			<xmax>154</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>aircraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>342</ymin>
+			<xmax>119</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>aircraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>334</ymin>
+			<xmax>275</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>aircraft</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>261</xmin>
-			<ymin>209</ymin>
+			<ymin>211</ymin>
+			<xmax>285</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>aircraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>12</ymin>
+			<xmax>152</xmax>
+			<ymax>29</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>aircraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>31</ymin>
+			<xmax>264</xmax>
+			<ymax>51</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>aircraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>40</ymin>
 			<xmax>281</xmax>
-			<ymax>236</ymax>
+			<ymax>53</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>w</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>251</xmin>
-			<ymin>334</ymin>
-			<xmax>275</xmax>
-			<ymax>361</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>w</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>98</xmin>
-			<ymin>342</ymin>
-			<xmax>122</xmax>
-			<ymax>365</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>w</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>134</xmin>
-			<ymin>255</ymin>
-			<xmax>157</xmax>
-			<ymax>279</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>w</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>219</xmin>
-			<ymin>88</ymin>
-			<xmax>235</xmax>
-			<ymax>105</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>w</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>241</xmin>
-			<ymin>96</ymin>
-			<xmax>253</xmax>
-			<ymax>114</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>w</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>260</xmin>
-			<ymin>103</ymin>
-			<xmax>274</xmax>
-			<ymax>120</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>w</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>278</xmin>
-			<ymin>114</ymin>
-			<xmax>295</xmax>
-			<ymax>129</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>w</name>
+		<name>aircraft</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>316</xmin>
 			<ymin>96</ymin>
-			<xmax>333</xmax>
-			<ymax>115</ymax>
+			<xmax>329</xmax>
+			<ymax>114</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>w</name>
+		<name>aircraft</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>264</xmin>
-			<ymin>39</ymin>
-			<xmax>278</xmax>
-			<ymax>58</ymax>
+			<xmin>220</xmin>
+			<ymin>89</ymin>
+			<xmax>235</xmax>
+			<ymax>106</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>w</name>
+		<name>aircraft</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>247</xmin>
-			<ymin>32</ymin>
-			<xmax>261</xmax>
-			<ymax>53</ymax>
+			<xmin>239</xmin>
+			<ymin>95</ymin>
+			<xmax>254</xmax>
+			<ymax>113</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>w</name>
+		<name>aircraft</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>135</xmin>
-			<ymin>10</ymin>
-			<xmax>154</xmax>
-			<ymax>29</ymax>
+			<xmin>259</xmin>
+			<ymin>101</ymin>
+			<xmax>273</xmax>
+			<ymax>120</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>w</name>
+		<name>aircraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>112</ymin>
+			<xmax>291</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>aircraft</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>492</xmin>
-			<ymin>85</ymin>
-			<xmax>504</xmax>
+			<ymin>86</ymin>
+			<xmax>505</xmax>
 			<ymax>101</ymax>
 		</bndbox>
 	</object>
