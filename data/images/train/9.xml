@@ -1,7 +1,7 @@
 <annotation>
-	<folder>imageAI_demo</folder>
-	<filename>holding1.jpg</filename>
-	<path>C:/Users/alec.sekelsky/Desktop/Image_detect/imageAI_demo/holding1.jpg</path>
+	<folder>train</folder>
+	<filename>9.jpg</filename>
+	<path>C:/Users/alec.sekelsky/Desktop/Image_detect/target_detection/data/images/train/9.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>133</xmin>
-			<ymin>149</ymin>
-			<xmax>222</xmax>
-			<ymax>263</ymax>
+			<xmin>135</xmin>
+			<ymin>151</ymin>
+			<xmax>218</xmax>
+			<ymax>259</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>376</xmin>
-			<ymin>109</ymin>
-			<xmax>447</xmax>
-			<ymax>192</ymax>
+			<xmin>377</xmin>
+			<ymin>111</ymin>
+			<xmax>449</xmax>
+			<ymax>191</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -42,9 +42,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>540</xmin>
-			<ymin>104</ymin>
-			<xmax>614</xmax>
-			<ymax>182</ymax>
+			<ymin>101</ymin>
+			<xmax>611</xmax>
+			<ymax>185</ymax>
 		</bndbox>
 	</object>
 </annotation>

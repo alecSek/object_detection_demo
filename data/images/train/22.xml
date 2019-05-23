@@ -1,13 +1,13 @@
 <annotation>
 	<folder>train</folder>
-	<filename>3.jpg</filename>
-	<path>C:/Users/alec.sekelsky/Desktop/Image_detect/target_detection/data/images/train/3.jpg</path>
+	<filename>22.jpg</filename>
+	<path>C:/Users/alec.sekelsky/Desktop/Image_detect/target_detection/data/images/train/22.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>862</width>
-		<height>544</height>
+		<width>800</width>
+		<height>600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>553</xmin>
-			<ymin>391</ymin>
-			<xmax>600</xmax>
-			<ymax>427</ymax>
+			<xmin>213</xmin>
+			<ymin>143</ymin>
+			<xmax>302</xmax>
+			<ymax>235</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>615</xmin>
-			<ymin>302</ymin>
-			<xmax>664</xmax>
-			<ymax>344</ymax>
+			<xmin>458</xmin>
+			<ymin>66</ymin>
+			<xmax>532</xmax>
+			<ymax>154</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>626</xmin>
-			<ymin>221</ymin>
-			<xmax>676</xmax>
-			<ymax>266</ymax>
+			<xmin>571</xmin>
+			<ymin>112</ymin>
+			<xmax>648</xmax>
+			<ymax>199</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>647</xmin>
-			<ymin>69</ymin>
-			<xmax>719</xmax>
-			<ymax>143</ymax>
+			<xmin>667</xmin>
+			<ymin>173</ymin>
+			<xmax>751</xmax>
+			<ymax>268</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>770</xmin>
-			<ymin>103</ymin>
-			<xmax>843</xmax>
-			<ymax>179</ymax>
+			<xmin>544</xmin>
+			<ymin>474</ymin>
+			<xmax>593</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>aircraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>644</xmin>
+			<ymin>537</ymin>
+			<xmax>693</xmax>
+			<ymax>594</ymax>
 		</bndbox>
 	</object>
 </annotation>

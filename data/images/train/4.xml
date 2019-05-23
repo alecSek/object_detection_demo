@@ -1,13 +1,13 @@
 <annotation>
-	<folder>imageAI_demo</folder>
-	<filename>airport_test.jpg</filename>
-	<path>C:/Users/alec.sekelsky/Desktop/Image_detect/imageAI_demo/airport_test.jpg</path>
+	<folder>train</folder>
+	<filename>4.jpg</filename>
+	<path>C:/Users/alec.sekelsky/Desktop/Image_detect/target_detection/data/images/train/4.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>962</width>
-		<height>722</height>
+		<width>584</width>
+		<height>439</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>543</xmin>
-			<ymin>24</ymin>
-			<xmax>717</xmax>
-			<ymax>219</ymax>
+			<xmin>147</xmin>
+			<ymin>282</ymin>
+			<xmax>213</xmax>
+			<ymax>344</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>239</xmin>
-			<ymin>462</ymin>
-			<xmax>363</xmax>
-			<ymax>573</ymax>
+			<xmin>213</xmin>
+			<ymin>321</ymin>
+			<xmax>313</xmax>
+			<ymax>426</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>349</xmin>
-			<ymin>525</ymin>
-			<xmax>516</xmax>
-			<ymax>704</ymax>
+			<xmin>345</xmin>
+			<ymin>319</ymin>
+			<xmax>400</xmax>
+			<ymax>395</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>563</xmin>
-			<ymin>523</ymin>
-			<xmax>664</xmax>
-			<ymax>650</ymax>
+			<xmin>409</xmin>
+			<ymin>242</ymin>
+			<xmax>475</xmax>
+			<ymax>304</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>665</xmin>
-			<ymin>396</ymin>
-			<xmax>783</xmax>
-			<ymax>498</ymax>
+			<xmin>336</xmin>
+			<ymin>17</ymin>
+			<xmax>431</xmax>
+			<ymax>128</ymax>
 		</bndbox>
 	</object>
 </annotation>
